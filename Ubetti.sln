@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26403.7
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ubetti", "Ubetti\Ubetti.csproj", "{B515616B-378B-4042-B8DA-0814AC5BA9B3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ubetti.Testes", "Ubetti.Testes\Ubetti.Testes.csproj", "{7A0A6057-8A25-4A8B-A242-7C4B59CA9312}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B515616B-378B-4042-B8DA-0814AC5BA9B3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B515616B-378B-4042-B8DA-0814AC5BA9B3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B515616B-378B-4042-B8DA-0814AC5BA9B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B515616B-378B-4042-B8DA-0814AC5BA9B3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7A0A6057-8A25-4A8B-A242-7C4B59CA9312}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7A0A6057-8A25-4A8B-A242-7C4B59CA9312}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7A0A6057-8A25-4A8B-A242-7C4B59CA9312}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7A0A6057-8A25-4A8B-A242-7C4B59CA9312}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
